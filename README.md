@@ -9,3 +9,11 @@
 ![Results of Rolling Two D6 Dice 1,000 Times](images/TwoD6Dice1000Times.png)
 
 ![Results of Rolling a D6 and D10 50,000 Times](images/D6andD10_50000Times.png)
+
+## Sitka Weather - Death Vlley
+
+![Sitka Weather Daily High Temp 2021](images/sitka_weather_dht.png)
+
+![Sitka Weather Daily High and Low Temp 2021](images/sitka_weather_dhlt.png)
+
+![Death Valley Daily High and Low Temp 2021](images/death_valley_dhlt.png)
