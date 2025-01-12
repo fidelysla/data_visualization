@@ -17,3 +17,7 @@
 ![Sitka Weather Daily High and Low Temp 2021](images/sitka_weather_dhlt.png)
 
 ![Death Valley Daily High and Low Temp 2021](images/death_valley_dhlt.png)
+
+## Mapping Global Earthquake Datasets. [➡️](https://github.com/fidelysla/data_visualization/blob/main/eq_map_dataset.ipynb)
+
+![Mapping Global Earthquake Datasets](images/global_eq_plot.png)
