@@ -1,6 +1,6 @@
 # Data Visualization
 
-## A Random Walk with 50000 points
+## [A Random Walk with 50000 points](https://github.com/fidelysla/data_visualization/blob/main/random_walks.ipynb)
 
 ![A random walk with 50000 points](images/A_random_walk_50000_points.png)
 
